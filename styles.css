@@ -3,4 +3,8 @@
 .menu{
     align-items: right;
     text-align: right;
+    list-style-type: none;
+}
+ul{
+    list-style-type: none;
 }
